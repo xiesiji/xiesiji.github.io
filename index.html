@@ -1,10 +1,100 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Interactive Picture Books</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #fdf6ec;
+      color: #3a3a3a;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem 1rem;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+      color: #5b3a1a;
+    }
+    .subtitle {
+      font-size: 1.1rem;
+      color: #8a6a4a;
+      margin-bottom: 2rem;
+    }
+    .books {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 2rem;
+      max-width: 960px;
+      width: 100%;
+    }
+    .book-card {
+      background: #fff;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 16px rgba(90,60,30,0.10);
+      transition: transform 0.2s, box-shadow 0.2s;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+    .book-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 28px rgba(90,60,30,0.18);
+    }
+    .book-card img {
+      width: 100%;
+      aspect-ratio: 4/3;
+      object-fit: cover;
+      display: block;
+    }
+    .book-info {
+      padding: 1rem 1.2rem 1.2rem;
+    }
+    .book-title {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #5b3a1a;
+      margin-bottom: 0.3rem;
+    }
+    .book-desc {
+      font-size: 0.9rem;
+      color: #8a6a4a;
+      line-height: 1.5;
+    }
+  </style>
 </head>
 <body>
-<h1>Welcome</h1>
+  <h1>📖 Interactive Picture Books</h1>
+  <p class="subtitle">Tap a book to start reading</p>
+  <div class="books">
+    <a class="book-card" href="books/Little-Bear-Complete-Book/Little-Bear-In-It-Goes.html">
+      <img src="books/Little-Bear-Complete-Book/assets/01-hello.jpg" alt="Little Bear, In It Goes!">
+      <div class="book-info">
+        <div class="book-title">Little Bear, In It Goes!</div>
+        <div class="book-desc">Help Little Bear keep paws back, put wrapper and tissue into the bin, and practice washing. Trash goes in. Paws stay out.</div>
+      </div>
+    </a>
+    <a class="book-card" href="books/little-penguin/Little-Penguin-Time-to-Tidy.html">
+      <img src="books/little-penguin/assets/01-cover.jpg" alt="Little Penguin, Time to Tidy!">
+      <div class="book-info">
+        <div class="book-title">Little Penguin, Time to Tidy!</div>
+        <div class="book-desc">Little Penguin plays with toys, then puts each one away. A story about tidying up after playtime.</div>
+      </div>
+    </a>
+    <a class="book-card" href="books/look-what-i-eat/Look-What-I-Eat.html">
+      <img src="books/look-what-i-eat/assets/rabbit.jpg" alt="Look What I Eat!">
+      <div class="book-info">
+        <div class="book-title">Look What I Eat!</div>
+        <div class="book-desc">One animal per page — tap to discover what it eats! A vocabulary book with ten friendly creatures.</div>
+      </div>
+    </a>
+  </div>
 </body>
 </html>

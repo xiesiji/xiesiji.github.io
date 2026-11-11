@@ -1,0 +1,162 @@
+[
+  {
+    "id": "rabbit",
+    "title": "Rabbit",
+    "lines": [
+      "Look What I Eat!",
+      "Rabbit, what do you eat?"
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "I eat a carrot!",
+    "cue": "Tap to see my food!",
+    "feedback": "Carrot! Crunch, crunch!",
+    "alt": "A warm grey rabbit holds up an orange carrot with green leaves.",
+    "action": "Reveal what rabbit eats",
+    "animal": "Rabbit",
+    "food": "a carrot"
+  },
+  {
+    "id": "elephant",
+    "title": "Elephant",
+    "lines": [
+      "Elephant, elephant,",
+      "What do you eat?"
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "I eat an apple!",
+    "cue": "Tap to see my food!",
+    "feedback": "Apple! Up, up, apple!",
+    "alt": "A blue-grey elephant lifts a red apple in its curled trunk.",
+    "action": "Reveal what elephant eats",
+    "animal": "Elephant",
+    "food": "an apple"
+  },
+  {
+    "id": "giraffe",
+    "title": "Giraffe",
+    "lines": [
+      "Giraffe, giraffe,",
+      "What do you eat?"
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "I eat leaves!",
+    "cue": "Tap to see my food!",
+    "feedback": "Leaves! Munch, munch!",
+    "alt": "A golden giraffe curls its tongue around fresh green leaves on a small twig.",
+    "action": "Reveal what giraffe eats",
+    "animal": "Giraffe",
+    "food": "leaves"
+  },
+  {
+    "id": "brown-bear",
+    "title": "Brown Bear",
+    "lines": [
+      "Brown Bear, brown bear,",
+      "What do you eat?"
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "I eat berries!",
+    "cue": "Tap to see my food!",
+    "feedback": "Berries! Little berries. Yum!",
+    "alt": "A brown bear presents a small bunch of blueberries in its open paws.",
+    "action": "Reveal what brown bear eats",
+    "animal": "Brown Bear",
+    "food": "berries"
+  },
+  {
+    "id": "panda",
+    "title": "Panda",
+    "lines": [
+      "Panda, panda,",
+      "What do you eat?"
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "I eat bamboo!",
+    "cue": "Tap to see my food!",
+    "feedback": "Bamboo! Hug it. Munch it!",
+    "alt": "A black-and-white panda hugs one green bamboo stalk with leaves.",
+    "action": "Reveal what panda eats",
+    "animal": "Panda",
+    "food": "bamboo"
+  },
+  {
+    "id": "monkey",
+    "title": "Monkey",
+    "lines": [
+      "Monkey, monkey,",
+      "What do you eat?"
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "I eat a banana!",
+    "cue": "Tap to see my food!",
+    "feedback": "Banana! Peel, peel. Yum!",
+    "alt": "A brown monkey holds up a peeled yellow banana in one hand.",
+    "action": "Reveal what monkey eats",
+    "animal": "Monkey",
+    "food": "a banana"
+  },
+  {
+    "id": "hippo",
+    "title": "Hippo",
+    "lines": [
+      "Hippo, hippo,",
+      "What do you eat?"
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "I eat watermelon!",
+    "cue": "Tap to see my food!",
+    "feedback": "Watermelon! Open wide!",
+    "alt": "A purple-grey hippo opens its wide mouth, with a small whole watermelon resting inside between its jaws.",
+    "action": "Reveal what hippo eats",
+    "animal": "Hippo",
+    "food": "watermelon"
+  },
+  {
+    "id": "squirrel",
+    "title": "Squirrel",
+    "lines": [
+      "Squirrel, squirrel,",
+      "What do you eat?"
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "I eat an acorn!",
+    "cue": "Tap to see my food!",
+    "feedback": "Acorn! Nibble, nibble!",
+    "alt": "A russet squirrel with a big curled tail holds an acorn in its two front paws.",
+    "action": "Reveal what squirrel eats",
+    "animal": "Squirrel",
+    "food": "an acorn"
+  },
+  {
+    "id": "koala",
+    "title": "Koala",
+    "lines": [
+      "Koala, koala,",
+      "What do you eat?"
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "I eat leaves!",
+    "cue": "Tap to see my food!",
+    "feedback": "Leaves! Sniff, sniff. Munch!",
+    "alt": "A silver-grey koala holds a small sprig of long green eucalyptus leaves near its nose.",
+    "action": "Reveal what koala eats",
+    "animal": "Koala",
+    "food": "leaves"
+  },
+  {
+    "id": "penguin",
+    "title": "Penguin",
+    "lines": [
+      "Penguin, penguin,",
+      "What do you eat?"
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "I eat a fish!",
+    "cue": "Tap to see my food!",
+    "feedback": "Fish! Yum, yum! What do YOU eat?",
+    "alt": "A navy-and-white penguin proudly holds one small silver fish across its flippers.",
+    "action": "Reveal what penguin eats",
+    "animal": "Penguin",
+    "food": "a fish"
+  }
+]

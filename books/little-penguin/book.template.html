@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#fbf8f1">
+  <title>Little Penguin, Time to Tidy!</title>
+  <style>
+    /* __FONT_LICENSE__ */
+    @font-face { font-family:'Patrick Hand'; src:url('__FONT_DATA__') format('truetype'); font-style:normal; font-weight:400; font-display:swap; }
+    :root { color-scheme: light; --ink:#352a25; --muted:#74675c; --red:#ad3d28; --paper:#fff; --canvas:#fbf8f1; --gold:#e4a32e; --hand:'Patrick Hand','Comic Sans MS',cursive; }
+    * { box-sizing:border-box; }
+    body { margin:0; color:var(--ink); background:var(--canvas); font-family:var(--hand); font-size-adjust:from-font; }
+    button { font:inherit; color:inherit; cursor:pointer; touch-action:manipulation; }
+    button:focus-visible { outline:3px solid #235b8c; outline-offset:5px; }
+    button:disabled { cursor:default; }
+    [hidden] { display:none !important; }
+    .reader { max-width:1256px; margin:auto; padding:24px max(24px, env(safe-area-inset-right)) max(22px, env(safe-area-inset-bottom)) max(24px, env(safe-area-inset-left)); container:reader / inline-size; }
+    .masthead { display:flex; justify-content:space-between; align-items:center; gap:16px; min-height:52px; margin-bottom:22px; }
+    .imprint { display:flex; align-items:center; gap:12px; font:400 .875rem/1.4 var(--hand); letter-spacing:1.1px; }
+    .paper-dot { display:inline-block; width:23px; height:25px; flex-shrink:0; background:var(--gold); border-radius:48% 42% 46% 36%; transform:rotate(-12deg); }
+    .read-aloud { min-height:44px; padding:10px 16px; border:1px solid #dbd3c6; background:transparent; border-radius:24px; font:400 1.125rem/1.4 var(--hand); }
+    .read-aloud:hover { background:#f1eadf; }
+    .book { background:var(--paper); border-radius:5px; border:1px solid #eee8de; padding:32px 32px 24px; }
+    .spread { display:grid; grid-template-columns:minmax(0,.88fr) minmax(0,1.12fr); gap:18px; align-items:center; min-height:530px; }
+    .copy { padding:24px 12px 24px 25px; min-width:0; }
+    .eyebrow { font:400 .875rem/1.5 var(--hand); letter-spacing:1.4px; text-transform:uppercase; color:var(--muted); margin:0 0 30px; }
+    h1 { font-weight:normal; margin:0; font-size:clamp(2rem,1rem + 2.7vw,3.125rem); line-height:1.3; letter-spacing:0; text-wrap:balance; }
+    h1 span { display:block; }
+    h1 span + span { margin-top:10px; }
+    h1 span:last-child { color:var(--red); }
+    .cover h1 { font-size:clamp(2.75rem,1.25rem + 3.8vw,4.25rem); line-height:1.14; letter-spacing:0; }
+    .cover h1 span + span { margin-top:9px; }
+    .caption { font-size:1.3125rem; line-height:1.5; color:var(--muted); margin:26px 0 0; max-width:290px; text-wrap:pretty; }
+    .art { width:100%; max-width:540px; margin:auto; padding:0; border:0; background:white; display:block; border-radius:4px; position:relative; line-height:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:1; object-fit:contain; border-radius:4px; }
+    .invitation { min-height:65px; display:flex; align-items:center; justify-content:center; text-align:center; padding-top:12px; }
+    .invitation p { margin:0; color:var(--muted); font:400 1.125rem/1.5 var(--hand); }
+    .invitation p.done { color:var(--red); }
+    .book-footer { display:flex; justify-content:space-between; align-items:center; gap:12px; margin-top:18px; }
+    .turn { border:1px solid #d9cebd; background:transparent; border-radius:26px; min-height:50px; padding:12px 24px; min-width:108px; font:400 1.1875rem/1.4 var(--hand); }
+    .turn:hover { background:#efe7d9; }
+    .turn.next { background:var(--ink); color:#fff; border-color:var(--ink); }
+    .turn.next:hover { background:#564033; }
+    .turn:disabled { opacity:.35; }
+    .pages { display:flex; align-items:center; justify-content:center; flex-wrap:wrap; }
+    .page-dot { width:44px; height:44px; border:0; background:transparent; padding:0; display:grid; place-items:center; }
+    .page-dot::before { content:''; width:7px; height:7px; background:#c6bcae; border-radius:50%; }
+    .page-dot[aria-current="page"]::before { background:var(--red); width:11px; height:11px; }
+    .page-count { font:400 1.0625rem/1.4 var(--hand); color:var(--muted); text-align:center; margin:10px 0 0; }
+    .sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap; border:0; }
+    @media (prefers-reduced-motion:no-preference) {
+      .page-enter { animation:page-in .25s ease-out; }
+      .art.celebrate { animation:nod .4s ease-out; }
+      @keyframes page-in { from { opacity:.35; transform:translateX(7px); } to { opacity:1; transform:translateX(0); } }
+      @keyframes nod { 50% { transform:rotate(-1.4deg) scale(.985); } }
+    }
+    @container reader (max-width:760px) {
+      .book { padding:24px 18px 12px; }
+      .spread { grid-template-columns:1fr; min-height:0; gap:10px; }
+      .copy { padding:10px 10px 0; text-align:center; }
+      .eyebrow { margin-bottom:14px; font-size:.75rem; }
+      h1 { font-size:clamp(1.875rem,1.2rem + 2.5vw,2.625rem); line-height:1.3; }
+      h1 span + span { margin-top:3px; }
+      .cover h1 { font-size:clamp(2.625rem,1.6rem + 3vw,3.5rem); }
+      .caption { margin:14px auto 0; font-size:1.1875rem; max-width:none; }
+      .art { max-width:470px; margin:4px auto 0; }
+      .invitation { min-height:56px; padding:8px 5px; }
+      .invitation p { font-size:1.0625rem; }
+      .book-footer { flex-wrap:wrap; }
+      .pages { display:none; }
+      .page-count { margin-top:14px; }
+    }
+    @media (max-width:480px) {
+      .reader { padding:12px 12px max(18px, env(safe-area-inset-bottom)); }
+      .masthead { margin-bottom:12px; gap:8px; }
+      .imprint { font-size:.75rem; letter-spacing:.7px; gap:8px; max-width:155px; }
+      .paper-dot { width:19px; height:21px; }
+      .read-aloud { font-size:1.0625rem; padding:9px 12px; }
+      .turn { min-height:48px; padding:10px 20px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="reader" aria-label="Little Penguin picture book">
+    <header class="masthead">
+      <div class="imprint"><span class="paper-dot" aria-hidden="true"></span><span>LITTLE EVERYDAY<br>STORIES</span></div>
+      <button class="read-aloud" id="read-aloud" type="button" hidden>Read aloud</button>
+    </header>
+    <article class="book" id="book" aria-labelledby="story-heading">
+      <div class="spread" id="spread">
+        <div class="copy">
+          <p class="eyebrow" id="eyebrow">A LITTLE STORY, A HELPFUL HABIT</p>
+          <h1 id="story-heading"></h1>
+          <p class="caption" id="caption"></p>
+        </div>
+        <button class="art" id="art" type="button" aria-describedby="invitation"><img id="illustration" width="1254" height="1254" alt="" fetchpriority="high"></button>
+      </div>
+      <div class="invitation"><p id="invitation"></p></div>
+    </article>
+    <nav class="book-footer" aria-label="Turn the pages">
+      <button class="turn" id="previous" type="button"><span aria-hidden="true">← </span>Back</button>
+      <div class="pages" id="pages"></div>
+      <button class="turn next" id="next" type="button">Let's read <span aria-hidden="true">→</span></button>
+    </nav>
+    <p class="page-count" id="page-count"></p>
+    <p class="sr-only" id="announcement" aria-live="polite" aria-atomic="true"></p>
+    <noscript><p>Please enable JavaScript to turn the pages in this picture book.</p></noscript>
+  </main>
+  <script>
+  (() => {
+    'use strict';
+    const pages = __STORY_DATA__;
+    const images = __IMAGE_DATA__;
+    const byId = id => document.getElementById(id);
+    const book = byId('book'), spread = byId('spread'), heading = byId('story-heading');
+    const art = byId('art'), illustration = byId('illustration'), invitation = byId('invitation');
+    const previous = byId('previous'), next = byId('next'), readAloud = byId('read-aloud');
+    const announcement = byId('announcement');
+    const canSpeak = 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    let current = 0, speechVersion = 0, speaking = false, activeUtterance = null;
+    const completed = new Set();
+    const dots = pages.map((page, i) => {
+      const button = document.createElement('button');
+      button.type = 'button'; button.className = 'page-dot';
+      button.setAttribute('aria-label', `Page ${i+1}: ${page.title}`);
+      button.addEventListener('click', () => show(i));
+      byId('pages').append(button);
+      return button;
+    });
+    function stopReading() {
+      speechVersion++;
+      if (canSpeak) window.speechSynthesis.cancel();
+      activeUtterance = null; speaking = false; readAloud.textContent = 'Read aloud';
+    }
+    function say(text) {
+      if (!canSpeak) return;
+      stopReading();
+      const version = speechVersion;
+      const utterance = new SpeechSynthesisUtterance(text);
+      const voices = window.speechSynthesis.getVoices();
+      const voice = voices.find(v => /^en[-_]US$/i.test(v.lang)) || voices.find(v => /^en[-_]/i.test(v.lang));
+      if (voice) utterance.voice = voice;
+      utterance.lang = 'en-US'; utterance.rate = .8; utterance.pitch = 1.05;
+      activeUtterance = utterance;
+      utterance.onend = () => { if (version === speechVersion) { speaking = false; activeUtterance = null; readAloud.textContent = 'Read aloud'; } };
+      utterance.onerror = event => {
+        if (version !== speechVersion) return;
+        speaking = false; activeUtterance = null; readAloud.textContent = 'Read aloud';
+        if (!['canceled','interrupted'].includes(event.error)) announcement.textContent = 'Audio is unavailable. You can read the words together.';
+      };
+      speaking = true; readAloud.textContent = 'Stop reading'; window.speechSynthesis.speak(utterance);
+    }
+    function show(index, initial = false) {
+      stopReading();
+      current = Math.max(0, Math.min(pages.length-1, index));
+      const page = pages[current];
+      heading.replaceChildren(...page.lines.map(line => {
+        const span = document.createElement('span'); span.textContent = line; return span;
+      }));
+      book.classList.toggle('cover', current === 0);
+      byId('eyebrow').textContent = current === 0 ? 'A LITTLE STORY, A HELPFUL HABIT' : 'LITTLE PENGUIN, TIME TO TIDY!';
+      byId('caption').textContent = page.caption || '';
+      byId('caption').hidden = !page.caption;
+      const result = completed.has(current) && page.resultImage;
+      illustration.src = images[result || page.id];
+      illustration.alt = result ? page.resultAlt : page.alt;
+      art.setAttribute('aria-label', page.action);
+      invitation.textContent = completed.has(current) && page.feedback ? page.feedback : page.cue;
+      invitation.classList.toggle('done', completed.has(current));
+      previous.disabled = current === 0;
+      next.textContent = current === pages.length-1 ? 'Read again ↺' : current === 0 ? "Let's read →" : 'Next →';
+      dots.forEach((dot, i) => i === current ? dot.setAttribute('aria-current','page') : dot.removeAttribute('aria-current'));
+      byId('page-count').textContent = `${current+1} / ${pages.length}`;
+      document.title = `${page.title} · ${current+1} of ${pages.length} · Little Penguin`;
+      if (!initial) announcement.textContent = `Page ${current+1} of ${pages.length}. ${page.lines.join(' ')}`;
+      spread.classList.remove('page-enter');
+      if (!initial && !reducedMotion.matches) { void spread.offsetWidth; spread.classList.add('page-enter'); }
+    }
+    function interact() {
+      const page = pages[current];
+      if (page.advance) { show(current+1); return; }
+      completed.add(current);
+      invitation.textContent = page.feedback;
+      invitation.classList.add('done');
+      announcement.textContent = page.feedback;
+      if (page.resultImage) {
+        illustration.src = images[page.resultImage];
+        illustration.alt = page.resultAlt;
+      }
+      if (current === pages.length-1 && !reducedMotion.matches) {
+        art.classList.remove('celebrate'); void art.offsetWidth; art.classList.add('celebrate');
+      }
+    }
+    previous.addEventListener('click', () => show(current-1));
+    next.addEventListener('click', () => {
+      if (current === pages.length-1) { completed.clear(); show(0); } else show(current+1);
+    });
+    art.addEventListener('click', interact);
+    readAloud.hidden = !canSpeak;
+    readAloud.addEventListener('click', () => speaking ? stopReading() : say(pages[current].lines.join(' ') + (pages[current].caption ? ' ' + pages[current].caption : '')));
+    document.addEventListener('keydown', event => {
+      if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
+      if (event.key === 'ArrowRight' && current < pages.length-1) { event.preventDefault(); show(current+1); }
+      if (event.key === 'ArrowLeft' && current > 0) { event.preventDefault(); show(current-1); }
+    });
+    window.addEventListener('pagehide', stopReading);
+    document.addEventListener('visibilitychange', () => { if (document.hidden) stopReading(); });
+    show(0, true);
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "pageCount": 9,
+  "originalImages": 9,
+  "embeddedImages": 9,
+  "embeddedFont": true,
+  "scriptSyntax": "passed",
+  "interactionExecution": "passed in DOM harness",
+  "checked": [
+    "image click advances",
+    "ball result image switch",
+    "feedback",
+    "restart resets state",
+    "keyboard navigation"
+  ],
+  "visualPreview": "blocked: browser process could not start",
+  "viewportChecks": "not verified"
+}

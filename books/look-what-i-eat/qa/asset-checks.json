@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rabbit",
+    "original_bytes": 2074823,
+    "sha256": "b307e8b660d95135530d0c0cd1ddce91b81b44c63c93232ca29bbb8c6567a35e"
+  },
+  {
+    "id": "elephant",
+    "original_bytes": 1981819,
+    "sha256": "dfb41df01edaf2bb2dac4cb44bf258581d800d9d0684cc8031cc8aeccc98e568"
+  },
+  {
+    "id": "giraffe",
+    "original_bytes": 1422031,
+    "sha256": "5dbfba036e549b5a69573b8654c15bd3990d5225d265492b920838b842287d19"
+  },
+  {
+    "id": "brown-bear",
+    "original_bytes": 2319449,
+    "sha256": "0f57ac444331ab33707e9a8de6d34a12b6aa640f95f43efbde249a45eec4341f"
+  },
+  {
+    "id": "panda",
+    "original_bytes": 2230273,
+    "sha256": "297c41a3114043bc65c5bcf83bb80cebf9c6d18f7a82389eea9eec505e552c33"
+  },
+  {
+    "id": "monkey",
+    "original_bytes": 2220648,
+    "sha256": "6e95a20abf031f4eba94a569c2a988787a8326f568b597df509683b5a622d025"
+  },
+  {
+    "id": "hippo",
+    "original_bytes": 2182603,
+    "sha256": "74e84a1fdfe29f7a5b03ccc66715e9724162fb8b4e431afea76ea840fe8dd45a"
+  },
+  {
+    "id": "squirrel",
+    "original_bytes": 2379212,
+    "sha256": "20f76fc39aeb1a3379a784478c8e57e08687fa27e58faecd01be5f8013c09888"
+  },
+  {
+    "id": "koala",
+    "original_bytes": 2223086,
+    "sha256": "1b1e8b8ca74f9d8815114f6760d07a084079b6d9c94d431db37d17e373f77bb8"
+  },
+  {
+    "id": "penguin",
+    "original_bytes": 1967357,
+    "sha256": "74218ac5faaf5519fc0c8a93a11e56e21da0bab77fb6f61e01f5561cc6df48b9"
+  }
+]
