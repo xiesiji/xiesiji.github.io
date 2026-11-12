@@ -1,0 +1,10 @@
+{
+  "keyboard": true,
+  "reducedMotionAnimation": "none",
+  "offline": {
+    "external": 0,
+    "font": true,
+    "images": true,
+    "restart": true
+  }
+}

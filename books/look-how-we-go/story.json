@@ -1,0 +1,128 @@
+[
+  {
+    "id": "01-cover",
+    "title": "Look How We Go!",
+    "lines": [
+      "Look How",
+      "We Go!"
+    ],
+    "caption": "On the road, on the water, in the sky.",
+    "answer": "So many ways to go!",
+    "cue": "Tap the picture. Let’s go!",
+    "feedback": "Ready, steady, go! Which vehicles can you name?",
+    "alt": "A red car with a small airplane, sailboat and train above it.",
+    "action": "Start our journey"
+  },
+  {
+    "id": "02-car",
+    "title": "Car",
+    "lines": [
+      "Look! A car!",
+      "The car rolls along."
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "Vroom, vroom!",
+    "cue": "Tap to discover more!",
+    "feedback": "A car takes us places.",
+    "alt": "A red compact car with blue windows and two dark wheels.",
+    "action": "Discover the car"
+  },
+  {
+    "id": "03-bus",
+    "title": "Bus",
+    "lines": [
+      "Look! A bus!",
+      "The bus rolls along."
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "Beep, beep!",
+    "cue": "Tap to discover more!",
+    "feedback": "A bus carries lots of people.",
+    "alt": "A long yellow city bus with blue windows, a door and two dark wheels.",
+    "action": "Discover the bus"
+  },
+  {
+    "id": "04-bicycle",
+    "title": "Bicycle",
+    "lines": [
+      "Look! A bicycle!",
+      "The bicycle rolls along."
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "Ring, ring!",
+    "cue": "Tap to discover more!",
+    "feedback": "Pedal, pedal. Two wheels go!",
+    "alt": "A green bicycle with two wheels, pedals, a saddle and handlebars.",
+    "action": "Discover the bicycle"
+  },
+  {
+    "id": "05-train",
+    "title": "Train",
+    "lines": [
+      "Look! A train!",
+      "The train runs on tracks."
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "Choo, choo!",
+    "cue": "Tap to discover more!",
+    "feedback": "A train carries people or things.",
+    "alt": "A blue locomotive pulling a red passenger carriage along a short track.",
+    "action": "Discover the train"
+  },
+  {
+    "id": "06-truck",
+    "title": "Truck",
+    "lines": [
+      "Look! A truck!",
+      "The truck rolls along."
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "Rumble, rumble!",
+    "cue": "Tap to discover more!",
+    "feedback": "A truck carries big loads.",
+    "alt": "An orange delivery truck with a green cargo box and dark wheels.",
+    "action": "Discover the truck"
+  },
+  {
+    "id": "07-boat",
+    "title": "Boat",
+    "lines": [
+      "Look! A boat!",
+      "The boat sails on water."
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "Splash, splash!",
+    "cue": "Tap to discover more!",
+    "feedback": "The wind helps this sailboat go.",
+    "alt": "A teal sailboat with a cream and coral sail on a small blue ripple.",
+    "action": "Discover the boat"
+  },
+  {
+    "id": "08-airplane",
+    "title": "Airplane",
+    "lines": [
+      "Look! An airplane!",
+      "The airplane flies up high."
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "Whoosh, whoosh!",
+    "cue": "Tap to discover more!",
+    "feedback": "An airplane has wings.",
+    "alt": "A golden passenger airplane with blue windows and both wings fully visible.",
+    "action": "Discover the airplane"
+  },
+  {
+    "id": "09-helicopter",
+    "title": "Helicopter",
+    "lines": [
+      "Look! A helicopter!",
+      "The helicopter flies up high."
+    ],
+    "caption": "Tap the picture. Say it with me!",
+    "answer": "Whirr, whirr!",
+    "cue": "Tap to discover more!",
+    "feedback": "Spinning blades! Can you name a vehicle on the road, on water, and in the sky?",
+    "alt": "A red helicopter with blue cockpit windows, a main rotor, tail rotor and landing skids.",
+    "action": "Discover the helicopter"
+  }
+]
