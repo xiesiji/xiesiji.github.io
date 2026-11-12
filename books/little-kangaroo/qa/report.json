@@ -5,75 +5,84 @@
       "results": [
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 1,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 2,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 3,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 4,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 5,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 6,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 7,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 8,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 9,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         }
       ],
       "size": [
@@ -86,75 +95,84 @@
       "results": [
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 1,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 2,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 3,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 4,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 5,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 6,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 7,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 8,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 9,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         }
       ],
       "size": [
@@ -167,75 +185,84 @@
       "results": [
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 1,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 2,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 3,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 4,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 5,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 6,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 7,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 8,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 9,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         }
       ],
       "size": [
@@ -248,75 +275,84 @@
       "results": [
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 1,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 2,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 3,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 4,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 5,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 6,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 7,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 8,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 9,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         }
       ],
       "size": [
@@ -329,75 +365,84 @@
       "results": [
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 1,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 2,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 3,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 4,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 5,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 6,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 7,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 8,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 9,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         }
       ],
       "size": [
@@ -410,75 +455,84 @@
       "results": [
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 1,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 2,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 3,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 4,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 5,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 6,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 7,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 8,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 9,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         }
       ],
       "size": [
@@ -491,75 +545,84 @@
       "results": [
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 1,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 2,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 3,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 4,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 5,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 6,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 7,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 8,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 9,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         }
       ],
       "size": [
@@ -572,75 +635,84 @@
       "results": [
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 1,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 2,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 3,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 4,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 5,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 6,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 7,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 8,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 9,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         }
       ],
       "size": [
@@ -653,75 +725,84 @@
       "results": [
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 1,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 2,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 3,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 4,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 5,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 6,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 7,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 8,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 9,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         }
       ],
       "size": [
@@ -734,75 +815,84 @@
       "results": [
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 1,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 2,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 3,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 4,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 5,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 6,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 7,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 8,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         },
         {
           "controlsFit": true,
+          "htmlTextVisible": true,
           "image": true,
           "noHorizontalOverflow": true,
           "page": 9,
           "ratio": true,
-          "textIsInImage": true
+          "textFits": true
         }
       ],
       "size": [

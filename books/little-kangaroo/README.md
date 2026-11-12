@@ -2,7 +2,7 @@
 
 原创英文幼儿互动绘本：小袋鼠学习刷牙。9 页，4:3 横版，手绘彩纸拼贴，Patrick Hand 手写字体。2026-11-12。
 
-直接打开 `Brush-Brush-Roo.html`。文字已经合成在每页图片中；图片与字体也全部内嵌在 HTML 中，离线可阅读，不依赖服务器或外部资源。优先适配电脑和平板，也支持手机。
+直接打开 `Brush-Brush-Roo.html`。正文由 HTML/CSS 排版，叠放在无字插画的留白上；文字不合成到图片中。图片与字体全部内嵌在 HTML 中，离线可阅读，不依赖服务器或外部资源。优先适配电脑和平板，也支持手机。
 
 - 点击画面：显示与当前动作有关的鼓励或提示，不会自动翻页。
 - Back / Next 或左右方向键：翻页。最后一页 Read again：重读。
@@ -19,22 +19,18 @@
 ## 文件
 
 - `Brush-Brush-Roo.html`：可离线单独使用的最终互动绘本。
-- `pages/01.jpg` … `09.jpg`：1600×1200，文字已融入画面的最终图片。
 - `originals/`：内置 image_gen 生成的九幅无字 PNG 原图。
-- `assets/`：加白边、保持全构图的 4:3 无字展示副本。
+- `assets/01.webp` … `09.webp`：1200×900 的 4:3 无字展示图片，WebP 质量 78，保留完整构图与白边。
 - `story.json`：可编辑短句、画面描述与点击反馈。
 - `image-prompts.json`：生成提示词、角色参考与分镜。
-- `book.template.html`、`build.mjs`、`export-pages.mjs`：可编辑源文件与重建脚本。
+- `book.template.html`、`build.mjs`：可编辑源文件与重建脚本。
 - `fonts/`：Patrick Hand 字体与 SIL Open Font License。
 - `qa/`：跨视口验收记录和截图。
 
 ## 重建
 
-需要 Node.js、macOS 自带 sips 和 agent-browser。最终交付 HTML 阅读时不需要这些工具。
+需要 Node.js、macOS 自带 sips 和 cwebp。最终 HTML 阅读时不需要这些工具。
 
-1. `node build.mjs --layout`：从无字原图和文案构建排版预览。
-2. 在绘本目录运行本地 HTTP 服务，例如 `python3 -m http.server 8765 --bind 127.0.0.1`。
-3. `node export-pages.mjs http://127.0.0.1:8765/`：将带字整页导出到 `pages/`。
-4. `node build.mjs`：将带字图片与字体内嵌为最终 HTML。
+运行 `node build.mjs`，即可从无字原图生成 1200×900 WebP 展示图，并将图片、字体和 HTML 正文打包成最终互动绘本。无需生成带字图片。
 
-插画通过内置 image_gen 逐页生成，均参考同一角色基准图。字体排版通过浏览器合成，以确保英文准确、一致且便于修改。
+插画通过内置 image_gen 逐页生成，均参考同一角色基准图。原始 PNG 保留在 `originals/`，用于后续编辑；浏览时只使用压缩后的无字 WebP 图片。正文修改 `story.json` 后重建即可。
