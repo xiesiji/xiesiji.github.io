@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f8f2e8">
+<title>Brush, Brush, Roo! — An Interactive Picture Book</title>
+<style>
+@font-face{font-family:Patrick;src:url('__FONT__') format('truetype');font-display:swap}
+*{box-sizing:border-box}body{margin:0;background:#f8f2e8;color:#573c2c;font-family:Patrick, cursive;min-height:100vh;min-height:100dvh;padding:12px max(12px,env(safe-area-inset-right)) 12px max(12px,env(safe-area-inset-left));display:flex;align-items:center;justify-content:center}main{width:100%;max-width:1200px;text-align:center}header{min-height:44px;display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 auto 8px;max-width:calc((100dvh - 192px)*4/3)}h1{font-size:clamp(20px,2.4vw,28px);font-weight:400;margin:0;text-wrap:balance}button{font:inherit;font-size:20px;color:inherit;border:1px solid #d9c6ad;border-radius:14px;background:#fffaf2;min-width:44px;min-height:44px;padding:6px 18px;cursor:pointer;touch-action:manipulation}button:hover{background:#f3e6d2}button:focus-visible{outline:3px solid #16818a;outline-offset:4px}button:disabled{opacity:.4;cursor:default}.page{display:block;position:relative;border:0;border-radius:12px;background:white;box-shadow:0 8px 32px #69452114;width:min(100%,calc((100dvh - 192px)*4/3));aspect-ratio:4/3;padding:0;margin:auto;overflow:hidden;container-type:inline-size;line-height:1}.page:hover{background:white}.page img{display:block;width:100%;height:100%;object-fit:contain}.copy{position:absolute;left:6%;top:34%;width:32%;text-align:left;font-size:5cqw;line-height:1.16;font-weight:400;pointer-events:none}.copy span{display:block;white-space:nowrap}.page.cover .copy{font-size:6.5cqw;top:33%}.copy span:first-child{color:#a94b30}.feedback{position:absolute;bottom:3%;left:6%;right:6%;font-size:3.2cqw;background:#fffaf1ed;border-radius:16px;padding:1.2% 2%;color:#176d73;opacity:0;transform:translateY(4px);pointer-events:none}.feedback.show{opacity:1;transform:none;transition:opacity .18s,transform .18s}.hint{margin:5px 0;min-height:24px;font-size:18px;color:#8b735a}nav{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;min-height:44px}.count{font-size:20px;min-width:52px}#restart{display:none}footer{margin-top:5px;font-size:16px;color:#907860}#read{white-space:nowrap}.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+@media(max-width:600px){body{padding:8px}header{max-width:100%;margin-bottom:8px}button{padding:6px 12px}.page{width:100%}.copy{font-size:5cqw}footer{font-size:14px}.hint{font-size:16px}nav{gap:8px}}
+@media(max-height:500px) and (min-width:601px){body{padding:4px}header{margin-bottom:4px;min-height:40px}h1{font-size:20px}button{font-size:17px;padding:4px 12px}.page{width:min(100%,calc((100dvh - 136px)*4/3))}.hint{margin:2px 0;font-size:15px;min-height:18px}footer{display:none}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body><main>
+<header><h1>Brush, Brush, Roo!</h1><button id="read" type="button">Read aloud</button></header>
+<button class="page cover" id="page" type="button" aria-label="Tap the picture to help Roo"><img id="art" alt="" width="1600" height="1200" fetchpriority="high"><span class="copy" id="copy" aria-hidden="true"></span><span class="feedback" id="feedback" aria-hidden="true"></span></button>
+<p class="hint">Tap the picture to help Roo.</p>
+<nav aria-label="Book pages"><button id="prev" type="button">← Back</button><span class="count" id="count" aria-live="polite"></span><button id="next" type="button">Next →</button><button id="restart" type="button">Read again ↺</button></nav>
+<footer>Little routines. Big smiles.</footer><p class="sr" id="announce" aria-live="polite"></p>
+</main><script>
+const book=__STORY__;
+const images=__IMAGES__;
+let index=0;let feedbackTimer;
+const $=id=>document.getElementById(id);
+function stopVoice(){if('speechSynthesis' in window)window.speechSynthesis.cancel()}
+function render(){stopVoice();clearTimeout(feedbackTimer);const p=book.pages[index];$('art').src=images[index];$('art').alt=p.alt;$('copy').replaceChildren(...p.lines.map(line=>{const s=document.createElement('span');s.textContent=line;return s}));$('page').classList.toggle('cover',index===0);$('page').setAttribute('aria-label',p.lines.join(' ')+' Tap the picture to help Roo.');$('feedback').classList.remove('show');$('count').textContent=(index+1)+' / '+book.pages.length;$('prev').disabled=index===0;$('next').style.display=index===book.pages.length-1?'none':'';$('restart').style.display=index===book.pages.length-1?'inline-block':'none';$('announce').textContent=p.lines.join(' ')}
+function move(step){index=Math.max(0,Math.min(book.pages.length-1,index+step));render()}
+$('prev').onclick=()=>move(-1);$('next').onclick=()=>{move(1);if(index===book.pages.length-1)$('restart').focus()};$('restart').onclick=()=>{index=0;render();$('next').focus()};
+$('page').onclick=()=>{$('feedback').textContent=book.pages[index].tap;$('feedback').classList.add('show');$('announce').textContent=book.pages[index].tap;clearTimeout(feedbackTimer);feedbackTimer=setTimeout(()=>$('feedback').classList.remove('show'),3500)};
+$('read').onclick=()=>{if(!('speechSynthesis' in window))return;stopVoice();const u=new SpeechSynthesisUtterance(book.pages[index].lines.join(' '));u.lang='en-US';u.rate=.8;const voice=window.speechSynthesis.getVoices().find(v=>v.lang.startsWith('en'));if(voice)u.voice=voice;window.speechSynthesis.speak(u)};
+if(!('speechSynthesis' in window)){$('read').disabled=true;$('read').title='Device speech is unavailable'}
+addEventListener('keydown',e=>{if(e.altKey||e.ctrlKey||e.metaKey)return;if(e.key==='ArrowRight'){e.preventDefault();move(1)}if(e.key==='ArrowLeft'){e.preventDefault();move(-1)}});render();
+</script></body></html>

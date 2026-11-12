@@ -1,0 +1,55 @@
+{
+  "tool": "built-in image_gen",
+  "category": "illustration-story",
+  "cover": "Original toddler picture-book cover, landscape 4:3, pure white. Orange kangaroo with cream muzzle/belly and peach inner long ears, teal short overalls, two cream buttons, long thick tail, coral red toothbrush with white bristles. Authentic flat painted tissue-paper collage with dry acrylic brush textures, irregular scissor-cut edges. Full body on right 65%, empty left 35% for typography. No text, logos, watermark, 3D or scenery.",
+  "reference": "/Users/xiechonghu/.codex/generated_images/01a1ce7b-a749-74f1-87e0-f7ebe1f60591/exec-b6b430ee-f1b0-49b3-a1e8-2990d30e91df.png",
+  "pageBase": "Use case: illustration-story. Original toddler picture-book page, landscape 4:3, pure white background. Match reference kangaroo identity EXACTLY: orange painted-paper kangaroo, peach inner long ears, cream muzzle/belly, teal short overalls and two cream buttons, tiny dark eyes, thick curved orange tail. Authentic flat hand-painted tissue-paper collage with varied dry acrylic brush textures and hand-cut edges, vivid colors. FULL body, ears feet tail visible with generous white margins; no clipping. Place action in right 65% of canvas; left 35% completely blank white for book typography. No text, letters, watermark, scenery or 3D.",
+  "pages": [
+    {
+      "page": 2,
+      "scene": "Roo sits happily with his long feet forward and tail curved behind. He holds a crisp red apple with one small bite, near his smiling mouth, happily munching. One small yellow banana rests beside his foot. No toothbrush in this scene. Appetizing healthy snack, joyful expression.",
+      "reference": "originals/01.png"
+    },
+    {
+      "page": 3,
+      "scene": "Roo stands holding a small oval hand mirror in teal frame, studying his mouth with a gently puzzled face. In the mirror, a simple reflection of his orange muzzle shows 3 slightly yellow teeth and a few yellow plaque flecks. The real kangaroo's teeth also slightly yellow. No shame, no fear, no decay in this scene. Mirror held at shoulder level, reflection consistent. No toothbrush.",
+      "reference": "originals/01.png"
+    },
+    {
+      "page": 4,
+      "scene": "Roo stands thoughtful, holding the red apple down in one paw, other paw gently on cheek. Above and beside him on the right, ONE simple cut-paper thought bubble contains a large cream tooth with a tiny brown cavity spot and a small red apple slice with a tiny zigzag pain mark, suggesting cavities can make biting hurt. This is a future possibility in a thought bubble, not current damage. Gentle thoughtful expression, no tears, no scary germs. No toothbrush.",
+      "reference": "originals/01.png"
+    },
+    {
+      "page": 5,
+      "scene": "Roo stands holding the coral-red toothbrush horizontally in one paw. A single adult kangaroo's orange forearm enters gently from the right edge, squeezing a very tiny rice-grain smear of white toothpaste onto bristles from a simple pale mint-green toothpaste tube. No tube labels. Roo watches attentively, mouth closed. Adult is represented only by hand and forearm, supporting Roo.",
+      "reference": "originals/01.png"
+    },
+    {
+      "page": 6,
+      "scene": "Roo stands with feet planted apart, tail supporting balance, gently brushing his visible FRONT teeth with the coral-red toothbrush. Tiny amount white foam at lips. One paw holds brush, one resting on overalls. Small two curved coral motion marks close to toothbrush indicate gentle circles. Warm engaged expression. A small paper sun high on right, not left.",
+      "reference": "originals/01.png"
+    },
+    {
+      "page": 7,
+      "scene": "Roo in a different clear three-quarter side pose, mouth open and coral-red toothbrush angled gently toward BACK teeth inside his mouth. Little white foam at mouth. Tail curls behind feet, one paw up in concentration. On upper right a modest diagram inset: a simple open cream dental arch shaped like U, with coral brush touching a back tooth chewing surface, two small arrows showing inside and chewing surfaces, no labels. Keep left 35% pure white.",
+      "reference": "originals/01.png"
+    },
+    {
+      "page": 8,
+      "scene": "Roo bends slightly toward a small simple WHITE washbasin with fine pale gray edges on right, gently spitting out one small white blob of toothpaste foam into basin, no drinking cup, tap off, not rinsing mouth. A caring adult kangaroo orange hand and forearm entering right gently supports Roo's shoulder. Coral-red toothbrush held lowered in Roo's other paw, still visible. Full ears feet tail visible. Calm proud face, white teeth.",
+      "reference": "originals/01.png"
+    },
+    {
+      "page": 9,
+      "scene": "Roo stands proudly smiling with clean cream-white teeth, holding the coral-red toothbrush upright like a little flag. Two large simple cut-paper icons on upper right: cheerful golden sun and dark indigo crescent moon with two small yellow stars, representing morning and bedtime. Red apple and little yellow banana near his feet, suggesting strong teeth help enjoy food. Orange ears tail feet all visible with generous white margins. Celebratory but uncluttered.",
+      "reference": "originals/01.png"
+    }
+  ],
+  "refinements": [
+    {
+      "page": 4,
+      "prompt": "Change only the kangaroo mouth to a closed, gentle thoughtful curved line with no teeth or tongue visible. Preserve identity, pose, apple, thought bubble, palette, textures and composition. No other changes."
+    }
+  ]
+}

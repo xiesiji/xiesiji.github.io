@@ -1,0 +1,16 @@
+{
+  "title": "Brush, Brush, Roo!",
+  "language": "en",
+  "aspectRatio": "4:3",
+  "pages": [
+    {"lines":["Brush, brush,","Roo!"],"alt":"Roo, an orange kangaroo in teal overalls, proudly holds a red toothbrush.","tap":"Let's help Roo brush!"},
+    {"lines":["Crunch, munch!","Yummy, Roo!"],"alt":"Roo enjoys a crunchy red apple with a banana beside his feet.","tap":"Strong teeth help us munch!"},
+    {"lines":["No brushing?","Teeth can","turn yellow."],"alt":"Roo notices yellow plaque on his unbrushed teeth in a hand mirror.","tap":"Time to care for those teeth!"},
+    {"lines":["Cavities can hurt.","Biting can","hurt, too."],"alt":"Roo imagines a tooth with a cavity and how it could hurt to bite an apple.","tap":"Let's help keep teeth healthy!"},
+    {"lines":["A little paste.","Ready, Roo?"],"alt":"A grown-up puts a tiny smear of toothpaste on Roo's red toothbrush.","tap":"Just a little. A grown-up helps!"},
+    {"lines":["Brush, brush!","Front teeth."],"alt":"Roo gently brushes the front of his teeth.","tap":"Small, gentle circles!"},
+    {"lines":["Brush, brush!","All around."],"alt":"Roo brushes toward his back teeth; a small diagram shows the inner and chewing surfaces.","tap":"Outside, inside, and chewing tops!"},
+    {"lines":["Grown-up helps.","Spit it out!"],"alt":"A grown-up supports Roo as he spits toothpaste into a white basin.","tap":"Spit. Don't rinse!"},
+    {"lines":["Morning and night.","Keep teeth strong!"],"alt":"Roo smiles with his toothbrush, with sun and moon icons and favorite fruit nearby.","tap":"Brush, brush, Roo! Every day!"}
+  ]
+}
