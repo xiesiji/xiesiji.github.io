@@ -1,0 +1,1502 @@
+[
+  {
+    "viewport": [
+      2520,
+      1080
+    ],
+    "checks": [
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": 815.578125,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "checks": [
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": 815.578125,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1512,
+      837
+    ],
+    "checks": [
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": 815.578125,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1366,
+      768
+    ],
+    "checks": [
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": 815.578125,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "494.547px 629.453px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1024,
+      768
+    ],
+    "checks": [
+      {
+        "columns": "392.469px 499.531px",
+        "coverBottom": 805.578125,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "392.469px 499.531px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "392.469px 499.531px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "392.469px 499.531px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "392.469px 499.531px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "392.469px 499.531px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "392.469px 499.531px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "392.469px 499.531px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "392.469px 499.531px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      900,
+      900
+    ],
+    "checks": [
+      {
+        "columns": "337.906px 430.094px",
+        "coverBottom": 805.578125,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "337.906px 430.094px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "337.906px 430.094px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "337.906px 430.094px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "337.906px 430.094px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "337.906px 430.094px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "337.906px 430.094px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "337.906px 430.094px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "337.906px 430.094px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      768,
+      1024
+    ],
+    "checks": [
+      {
+        "columns": "682px",
+        "coverBottom": 906.421875,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "682px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "682px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "682px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "682px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "682px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "682px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "682px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "682px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "checks": [
+      {
+        "columns": "328px",
+        "coverBottom": 725.390625,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "328px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "328px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "328px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "328px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "328px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "328px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "328px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "328px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      320,
+      693
+    ],
+    "checks": [
+      {
+        "columns": "258px",
+        "coverBottom": 655.390625,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "258px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "258px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "258px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "258px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "258px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "258px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "258px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "258px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      844,
+      390
+    ],
+    "checks": [
+      {
+        "columns": "313.266px 398.734px",
+        "coverBottom": 805.578125,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "313.266px 398.734px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "313.266px 398.734px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "313.266px 398.734px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "313.266px 398.734px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "313.266px 398.734px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "313.266px 398.734px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "313.266px 398.734px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "313.266px 398.734px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      808,
+      900
+    ],
+    "checks": [
+      {
+        "columns": "722px",
+        "coverBottom": 909.015625,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "722px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "722px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "722px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "722px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "722px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "722px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "722px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "722px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      807,
+      900
+    ],
+    "checks": [
+      {
+        "columns": "721px",
+        "coverBottom": 908.953125,
+        "feedback": "Tap the footprints. Step, step!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "721px",
+        "coverBottom": null,
+        "feedback": "Little steps in the soft, soft snow.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "721px",
+        "coverBottom": null,
+        "feedback": "Hello, little snowflake!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "721px",
+        "coverBottom": null,
+        "feedback": "Round and round. A snowball!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "721px",
+        "coverBottom": null,
+        "feedback": "Hello, snowy friend!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "721px",
+        "coverBottom": null,
+        "feedback": "Wheee! A soft, snowy slide.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "721px",
+        "coverBottom": null,
+        "feedback": "Flippers out. Flippers in. Flap, flap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "721px",
+        "coverBottom": null,
+        "feedback": "Brush, brush. Ready to go!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "columns": "721px",
+        "coverBottom": null,
+        "feedback": "Bye-bye, snowy friend. Snow much fun!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  }
+]

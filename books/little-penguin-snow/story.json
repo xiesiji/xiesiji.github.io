@@ -1,0 +1,111 @@
+[
+  {
+    "id": "01-cover",
+    "title": "Little Penguin, Snow Much Fun!",
+    "lines": [
+      "Little Penguin,",
+      "Snow Much Fun!"
+    ],
+    "cue": "Tap Little Penguin to begin.",
+    "action": "Begin the story",
+    "alt": "A little penguin in a pastel striped scarf waves on the snow.",
+    "caption": "A little snowy adventure."
+  },
+  {
+    "id": "02-steps",
+    "title": "Step, step. Here we go!",
+    "lines": [
+      "Step, step.",
+      "Here we go!"
+    ],
+    "cue": "Tap the footprints. Step, step!",
+    "action": "Follow the footprints",
+    "alt": "Little Penguin lifts one foot and leaves four footprints in soft snow.",
+    "feedback": "Little steps in the soft, soft snow."
+  },
+  {
+    "id": "03-snowflake",
+    "title": "A snowflake! Hello, snow!",
+    "lines": [
+      "A snowflake!",
+      "Hello, snow!"
+    ],
+    "cue": "Tap the snowflake. Can you catch it?",
+    "action": "Catch a snowflake",
+    "alt": "Little Penguin holds out a flipper beneath a falling snowflake.",
+    "feedback": "Hello, little snowflake!"
+  },
+  {
+    "id": "04-roll",
+    "title": "Roll, roll. Here we go!",
+    "lines": [
+      "Roll, roll.",
+      "Here we go!"
+    ],
+    "cue": "Tap the snowball. Roll, roll!",
+    "action": "Roll the snowball",
+    "alt": "Little Penguin pushes a white snowball with both flippers.",
+    "feedback": "Round and round. A snowball!"
+  },
+  {
+    "id": "05-build",
+    "title": "Pat, pat. A snow penguin!",
+    "lines": [
+      "Pat, pat.",
+      "A snow penguin!"
+    ],
+    "cue": "Tap the snow penguin. Say hello!",
+    "action": "Say hello to the snow penguin",
+    "alt": "Little Penguin stands beside a small two-ball snow penguin with a carrot beak and twig flippers.",
+    "feedback": "Hello, snowy friend!"
+  },
+  {
+    "id": "06-slide",
+    "title": "Slide, slide. Here we go!",
+    "lines": [
+      "Slide, slide.",
+      "Here we go!"
+    ],
+    "cue": "Tap Little Penguin. Wheee!",
+    "action": "Slide on a snowy tummy",
+    "alt": "Little Penguin slides on its belly over a low snow mound, feet trailing behind.",
+    "feedback": "Wheee! A soft, snowy slide."
+  },
+  {
+    "id": "07-snow-angel",
+    "title": "Flap, flap. A snow angel!",
+    "lines": [
+      "Flap, flap.",
+      "A snow angel!"
+    ],
+    "cue": "Tap the flippers. Flap, flap!",
+    "action": "Make a snow angel",
+    "alt": "Little Penguin lies on its back with flippers spread in a pale blue snow-angel impression.",
+    "feedback": "Flippers out. Flippers in. Flap, flap!"
+  },
+  {
+    "id": "08-brush",
+    "title": "Brush, brush. Off goes the snow!",
+    "lines": [
+      "Brush, brush.",
+      "Off goes the snow!"
+    ],
+    "cue": "Tap the snowy tummy. Brush, brush!",
+    "action": "Brush off the snow",
+    "alt": "Little Penguin brushes loose snow from its tummy with one flipper.",
+    "feedback": "Brush, brush. Ready to go!"
+  },
+  {
+    "id": "09-goodbye",
+    "title": "Bye-bye, snow! Step, step. Home we go!",
+    "lines": [
+      "Bye-bye, snow!",
+      "Step, step.",
+      "Home we go!"
+    ],
+    "cue": "Tap a flipper to wave goodbye.",
+    "action": "Wave goodbye",
+    "alt": "Little Penguin waves beside its snow penguin, with footprints leading away.",
+    "feedback": "Bye-bye, snowy friend. Snow much fun!"
+  }
+]

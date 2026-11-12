@@ -1,0 +1,12 @@
+import { readFile, writeFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
+import path from 'node:path';
+const dir = path.dirname(fileURLToPath(import.meta.url));
+const story = JSON.parse(await readFile(path.join(dir, 'story.json'), 'utf8'));
+const images = Object.fromEntries(await Promise.all(story.map(async page => [page.id, 'data:image/jpeg;base64,' + (await readFile(path.join(dir, 'assets', page.id + '.jpg'))).toString('base64')])));
+const template = await readFile(path.join(dir, 'book.template.html'), 'utf8');
+const font = 'data:font/ttf;base64,' + (await readFile(path.join(dir, 'fonts', 'PatrickHand-Regular.ttf'))).toString('base64');
+const fontLicense = await readFile(path.join(dir, 'fonts', 'OFL.txt'), 'utf8');
+const html = template.replace('__STORY_DATA__', () => JSON.stringify(story)).replace('__IMAGE_DATA__', () => JSON.stringify(images)).replace('__FONT_DATA__', () => font).replace('__FONT_LICENSE__', () => fontLicense);
+await writeFile(path.join(dir, 'Little-Penguin-Snow-Much-Fun.html'), html);
+console.log('Built self-contained 9-page picture book.');

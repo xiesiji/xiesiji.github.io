@@ -1,0 +1,66 @@
+[
+  {
+    "id": "01-cover",
+    "prompt": "Create ONE square wordless picture-book cover illustration. Reference image is character and material reference ONLY; do not reproduce the nine-view sheet. Show just ONE full-body little penguin, identical to the reference: round dark navy head, small black dot eyes in cream face patches, orange-yellow beak, cream belly, mottled warm gray-brown sides, navy flippers, black feet, pastel blue/pink/yellow striped scarf with a hanging blue-ended tail. Penguin joyfully waves one flipper while standing on a small irregular white snow patch edged with pale icy blue, with just three cut-paper snowflakes. Pure white background, large clear silhouette, ample white margins, all feet and flippers visible. Real handmade painted tissue-paper collage, irregular cut edges, directional dry brush acrylic and layered tissue textures in each paper shape; flat collage without shadows, not sculpted or 3D. Match reference's charming toddler proportions and rich hand-painted texture. No text, letters, numbers, border, logo or watermark. Single illustration, not grid.",
+    "references": [
+      "originals/character-reference.png"
+    ]
+  },
+  {
+    "id": "02-steps",
+    "prompt": "Create ONE square wordless children's picture-book illustration. References establish the SAME single main penguin and exact handmade material. Keep navy head and flippers, tiny black eyes in cream cheek patches, orange-yellow beak, cream belly, warm gray-brown sides, black feet, pastel blue/pink/yellow striped scarf. Preserve proportions and colors. Hand-painted tissue-paper collage with flat irregular cut shapes and varied dry-brush paint within shapes, minimal relief, no heavy shadows, no 3D. Pure white background, generous white margins, entire character and all props visible, no cropping. Snow is white tissue with sparse pale blue edges, no full scenic backdrop. NO text, letters, numbers, border, watermark. Single scene, not grid. Scene: Penguin waddles carefully toward the right, lifting one black foot above soft snow, looking down happily. A short trail of four distinct dark blue-gray penguin footprints curves behind it on a small white snow patch edged pale blue. Full body three-quarter side view, arms spread gently for balance. No mountains, no trees.",
+    "references": [
+      "originals/01-cover.png"
+    ]
+  },
+  {
+    "id": "03-snowflake",
+    "prompt": "Create ONE square wordless children's picture-book illustration. References establish the SAME single main penguin and exact handmade material. Keep navy head and flippers, tiny black eyes in cream cheek patches, orange-yellow beak, cream belly, warm gray-brown sides, black feet, pastel blue/pink/yellow striped scarf. Preserve proportions and colors. Hand-painted tissue-paper collage with flat irregular cut shapes and varied dry-brush paint within shapes, minimal relief, no heavy shadows, no 3D. Pure white background, generous white margins, entire character and all props visible, no cropping. Snow is white tissue with sparse pale blue edges, no full scenic backdrop. NO text, letters, numbers, border, watermark. Single scene, not grid. Scene: Penguin stands with head tilted upward and one flipper held out to catch a single large pale blue snowflake just above its flipper tip. Three tiny other snowflakes fall around its head. Both black feet visible on a small pale blue edged snow patch. Joyful curious pose, full body.",
+    "references": [
+      "originals/01-cover.png"
+    ]
+  },
+  {
+    "id": "04-roll",
+    "prompt": "Create ONE square wordless children's picture-book illustration. References establish the SAME single main penguin and exact handmade material. Keep navy head and flippers, tiny black eyes in cream cheek patches, orange-yellow beak, cream belly, warm gray-brown sides, black feet, pastel blue/pink/yellow striped scarf. Preserve proportions and colors. Hand-painted tissue-paper collage with flat irregular cut shapes and varied dry-brush paint within shapes, minimal relief, no heavy shadows, no 3D. Pure white background, generous white margins, entire character and all props visible, no cropping. Snow is white tissue with sparse pale blue edges, no full scenic backdrop. NO text, letters, numbers, border, watermark. Single scene, not grid. Scene: Penguin bends forward with both flipper tips visibly pushing a single small white snowball along the snow toward the right. Snowball is next to its feet, outlined with light blue tissue edges, and a short rolled track behind the ball. Full body side view; penguin and ball clearly separated silhouettes.",
+    "references": [
+      "originals/01-cover.png"
+    ]
+  },
+  {
+    "id": "05-build",
+    "prompt": "Create ONE square wordless children's picture-book illustration. References establish the SAME single main penguin and exact handmade material. Keep navy head and flippers, tiny black eyes in cream cheek patches, orange-yellow beak, cream belly, warm gray-brown sides, black feet, pastel blue/pink/yellow striped scarf. Preserve proportions and colors. Hand-painted tissue-paper collage with flat irregular cut shapes and varied dry-brush paint within shapes, minimal relief, no heavy shadows, no 3D. Pure white background, generous white margins, entire character and all props visible, no cropping. Snow is white tissue with sparse pale blue edges, no full scenic backdrop. NO text, letters, numbers, border, watermark. Single scene, not grid. Scene: Penguin proudly stands to the left of one small completed SNOW PENGUIN sculpture, made of two stacked white snowballs with pale blue edges, a smaller head and larger body, small dark pebble eyes, small orange carrot beak, two tiny dark twig flippers. Sculpture reaches only to the main penguin's shoulder and has no scarf. Main penguin's flipper gently rests near sculpture, all feet visible. Same sculpture will be reused at ending.",
+    "references": [
+      "originals/01-cover.png"
+    ]
+  },
+  {
+    "id": "06-slide",
+    "prompt": "Create ONE square wordless children's picture-book illustration. References establish the SAME single main penguin and exact handmade material. Keep navy head and flippers, tiny black eyes in cream cheek patches, orange-yellow beak, cream belly, warm gray-brown sides, black feet, pastel blue/pink/yellow striped scarf. Preserve proportions and colors. Hand-painted tissue-paper collage with flat irregular cut shapes and varied dry-brush paint within shapes, minimal relief, no heavy shadows, no 3D. Pure white background, generous white margins, entire character and all props visible, no cropping. Snow is white tissue with sparse pale blue edges, no full scenic backdrop. NO text, letters, numbers, border, watermark. Single scene, not grid. Scene: Penguin slides belly-first down a very low gentle snow mound toward the right, cream tummy facing the snow, black feet trailing visibly behind, flippers outstretched, head raised with delighted expression. Scarf hugs neck with short end trailing safely backward. Entire penguin and entire small snow mound visible, sparse pale blue motion strokes and a tiny puff of snow. No sled.",
+    "references": [
+      "originals/01-cover.png"
+    ]
+  },
+  {
+    "id": "07-snow-angel",
+    "prompt": "Create ONE square wordless children's picture-book illustration. References establish the SAME single main penguin and exact handmade material. Keep navy head and flippers, tiny black eyes in cream cheek patches, orange-yellow beak, cream belly, warm gray-brown sides, black feet, pastel blue/pink/yellow striped scarf. Preserve proportions and colors. Hand-painted tissue-paper collage with flat irregular cut shapes and varied dry-brush paint within shapes, minimal relief, no heavy shadows, no 3D. Pure white background, generous white margins, entire character and all props visible, no cropping. Snow is white tissue with sparse pale blue edges, no full scenic backdrop. NO text, letters, numbers, border, watermark. Single scene, not grid. Scene: Penguin lies happily on its back on a small flat patch of snow, face and cream belly upward, black feet pointing toward viewer, both flippers spread wide. Overhead three-quarter view; a clearly visible simple pale blue snow-angel impression fans out just outside both flippers and feet. Whole body visible with two flippers and two feet only. Scarf lies across chest.",
+    "references": [
+      "originals/01-cover.png"
+    ]
+  },
+  {
+    "id": "08-brush",
+    "prompt": "Create ONE square wordless children's picture-book illustration. References establish the SAME single main penguin and exact handmade material. Keep navy head and flippers, tiny black eyes in cream cheek patches, orange-yellow beak, cream belly, warm gray-brown sides, black feet, pastel blue/pink/yellow striped scarf. Preserve proportions and colors. Hand-painted tissue-paper collage with flat irregular cut shapes and varied dry-brush paint within shapes, minimal relief, no heavy shadows, no 3D. Pure white background, generous white margins, entire character and all props visible, no cropping. Snow is white tissue with sparse pale blue edges, no full scenic backdrop. NO text, letters, numbers, border, watermark. Single scene, not grid. Scene: Penguin stands upright and brushes loose white snow off its cream belly using one flipper. Three little pale blue edged snow clumps fall from the belly beside the foot. Other flipper gently raised, face looking down toward belly. Whole body on small irregular snow patch, pastel striped scarf still around neck.",
+    "references": [
+      "originals/01-cover.png"
+    ]
+  },
+  {
+    "id": "09-goodbye",
+    "prompt": "Create ONE square wordless children's picture-book illustration. References establish the SAME single main penguin and exact handmade material. Keep navy head and flippers, tiny black eyes in cream cheek patches, orange-yellow beak, cream belly, warm gray-brown sides, black feet, pastel blue/pink/yellow striped scarf. Preserve proportions and colors. Hand-painted tissue-paper collage with flat irregular cut shapes and varied dry-brush paint within shapes, minimal relief, no heavy shadows, no 3D. Pure white background, generous white margins, entire character and all props visible, no cropping. Snow is white tissue with sparse pale blue edges, no full scenic backdrop. NO text, letters, numbers, border, watermark. Single scene, not grid. Scene: Penguin joyfully waves goodbye, standing at right of its small finished snow-penguin sculpture. Sculpture has two stacked white snowballs outlined pale blue, smaller head, round body, two dark pebble eyes, small orange carrot beak, two dark twig flippers, NO scarf, reaching main penguin shoulder. A short trail of footprints leads away to the right. Main penguin's two feet fully visible, warm satisfied pose. White background with two small snowflakes only.",
+    "references": [
+      "originals/01-cover.png",
+      "originals/05-build.png"
+    ]
+  }
+]
