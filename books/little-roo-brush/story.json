@@ -1,0 +1,65 @@
+[
+  {
+    "id": "01-cover",
+    "text": "Brush, Little Roo!",
+    "scene": "Cover: smiling kangaroo at lower center-left proudly holds a coral-red toothbrush upright in one hand. Other little forearm lifted with cheerful anticipation. Full ears, thick long curved tail and both very long feet visible. Two tiny ochre cut-paper sparkles at the sides, below the reserved top area. No sink or other props.",
+    "alt": "Little Roo, a yellow kangaroo with long ears, long hind feet, a pouch and a thick tail, holds a red toothbrush.",
+    "interaction": "Tap Roo to begin."
+  },
+  {
+    "id": "02-yum",
+    "text": "Yum, yum!",
+    "scene": "Kangaroo in lower left-center happily holds an apple wedge near its mouth. In lower right a little white plate with a red apple, spare apple wedge and a piece of golden toast. Teeth healthy, joyous about eating. Full figure, tail and long feet visible.",
+    "alt": "Roo enjoys an apple slice beside a plate with an apple and toast.",
+    "interaction": "Tap for a happy bite!"
+  },
+  {
+    "id": "03-time",
+    "text": "Time to brush!",
+    "scene": "Kangaroo at lower left, holding the coral-red toothbrush and looking at it a little hesitant, tiny forearm at chin, expressive slight backward lean. Mouth closed. At lower right, low small white pedestal sink with subtle fine light grey edges, two taps and curved grey faucet, pale blue tumbler on left side of sink rim. No tap running. Full kangaroo visible.",
+    "alt": "Roo hesitates with a toothbrush beside a low white sink and blue cup.",
+    "interaction": "Tap to help Roo get ready."
+  },
+  {
+    "id": "04-yellow",
+    "text": "No brushing?\nYellow teeth.",
+    "scene": "Kangaroo in lower left, mild thoughtful concern, points toward a large thought cloud in lower right. Thought cloud connected to its head by two little pale blue thought dots. Inside cloud a simple close-up smile, pink gums and an evenly shaped row of small teeth with pale yellow plaque discoloration. Clearly mouth/teeth in an imagined thought cloud, not extra character. No gross damage or pain. The top 23% stays empty. Entire character visible.",
+    "alt": "Roo imagines yellow plaque on teeth in a thought bubble.",
+    "interaction": "Tap to help Roo choose."
+  },
+  {
+    "id": "05-cavities",
+    "text": "Cavities can hurt.",
+    "scene": "Kangaroo in lower left, gently touching cheek and looking thoughtfully at an uneaten apple wedge on a small white plate in lower center. In lower right above the plate a pale blue outlined thought cloud connected to head by two pale blue thought dots, showing one simplified white molar with a small brown cavity spot on its top, a small red apple wedge and tiny coral discomfort zigzag. Mild thoughtful concern, not crying or scary, no gore. This is an imagined future risk. No written marks. All art stays below the top 23%.",
+    "alt": "Roo imagines a tooth with a cavity and discomfort while an apple slice waits uneaten.",
+    "interaction": "Tap to help Roo choose."
+  },
+  {
+    "id": "06-brush",
+    "text": "Brush, brush, brush!",
+    "scene": "Full kangaroo in lower left-center gently brushes its small visible front teeth using the coral-red toothbrush, closed smile around brush with tiny white foam. One hand holds brush, other little arm lifted happily. Lower right the same small white pedestal sink with fine grey edges, two taps and curved grey faucet, pale blue tumbler on left side of rim. No running water. Bright purposeful action, full figure and thick tail.",
+    "alt": "Roo gently brushes teeth with the red toothbrush beside the sink.",
+    "interaction": "Tap to brush with Roo."
+  },
+  {
+    "id": "07-all-sides",
+    "text": "Front, back, and tops!",
+    "scene": "Kangaroo in lower left, full body, gently brushing teeth using coral toothbrush. In the lower right, three small neat simplified paper-cut dental demonstration vignettes in a vertical stack, all below top blank area: toothbrush bristles touching outside tooth faces; toothbrush bristles touching inside faces from mouth side; toothbrush bristles pointing down touching flat chewing surfaces. Use simple pink gum arcs with white rounded teeth, each brush clearly shows its bristles contacting indicated surface. No text, no arrows with words, no tooth labels. Educational but warm and uncluttered.",
+    "alt": "Roo brushes while three diagrams show outside, inside and chewing surfaces.",
+    "interaction": "Tap each part."
+  },
+  {
+    "id": "08-routine",
+    "text": "Morning and night.",
+    "scene": "Kangaroo centrally in lower portion, grinning gently, proudly holds coral toothbrush upright in one little hand, other forearm stretched outward. Small ochre sun paper cutout to lower left of ear and pale blue crescent moon to lower right of ear, BOTH below reserved top 23% area. Sun and moon just habit symbols on white background, no scenery. Full figure including tail and both long feet.",
+    "alt": "Roo holds a toothbrush between a sun and a crescent moon.",
+    "interaction": "Brush at both times!"
+  },
+  {
+    "id": "09-happy",
+    "text": "Healthy teeth.\nHappy bites!",
+    "scene": "Kangaroo joyful at lower center-left, small healthy white smile, holding a red-skinned apple wedge near mouth. Lower right a pale blue tumbler with same coral red toothbrush standing inside. A few sparse tiny teal and coral cut-paper confetti pieces around character below reserved top text zone. Full figure, pouch, feet and tail clearly visible. Warm celebratory ending.",
+    "alt": "Roo smiles with healthy teeth and an apple slice beside the toothbrush cup.",
+    "interaction": "Tap to celebrate!"
+  }
+]
