@@ -1,3 +1,4 @@
+import { withPrintLayout } from '../print-layout.mjs';
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
@@ -8,5 +9,5 @@ const template = await readFile(path.join(dir, 'book.template.html'), 'utf8');
 const font = 'data:font/ttf;base64,' + (await readFile(path.join(dir, 'fonts', 'PatrickHand-Regular.ttf'))).toString('base64');
 const fontLicense = await readFile(path.join(dir, 'fonts', 'OFL.txt'), 'utf8');
 const html = template.replace('__STORY_DATA__', () => JSON.stringify(story)).replace('__IMAGE_DATA__', () => JSON.stringify(images)).replace('__FONT_DATA__', () => font).replace('__FONT_LICENSE__', () => fontLicense);
-await writeFile(path.join(dir, 'Little-Penguin-Time-to-Tidy.html'), html);
+await writeFile(path.join(dir, 'Little-Penguin-Time-to-Tidy.html'), withPrintLayout(html, 'spread'));
 console.log('Built self-contained picture book.');

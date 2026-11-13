@@ -1,3 +1,4 @@
+import { withPrintLayout } from '../print-layout.mjs';
 import {readFile,writeFile,mkdir,unlink} from 'node:fs/promises';
 import {execFileSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
@@ -21,5 +22,5 @@ const font='data:font/ttf;base64,'+(await readFile(path.join(dir,'fonts','Patric
 const license=await readFile(path.join(dir,'fonts','OFL.txt'),'utf8');
 let html=(await readFile(path.join(dir,'book.template.html'),'utf8')).replace('__FONT__',()=>font).replace('__STORY__',()=>JSON.stringify(story)).replace('__IMAGES__',()=>JSON.stringify(images));
 html=html.replace('</head>','<!-- Patrick Hand font: SIL Open Font License 1.1. Full license follows.\n'+license.replaceAll('--','—')+'\n--></head>');
-await writeFile(path.join(dir,'Brush-Brush-Roo.html'),html);
+await writeFile(path.join(dir,'Brush-Brush-Roo.html'),withPrintLayout(html, 'left'));
 console.log('Built standalone book: HTML text over 9 text-free 1200×900 WebP illustrations.');
