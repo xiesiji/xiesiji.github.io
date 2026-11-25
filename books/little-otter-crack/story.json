@@ -1,0 +1,115 @@
+[
+  {
+    "id": "01-cover",
+    "title": "Little Otter, Crack, Crack!",
+    "lines": [
+      "Little Otter,",
+      "Crack, Crack!"
+    ],
+    "cue": "Tap Little Otter to begin.",
+    "action": "Begin the story",
+    "alt": "A rusty red-brown sea otter floats on a turquoise ripple, holding a lavender clam and waving. A blue-gray stone rests on its tummy.",
+    "caption": "A little shell. A tasty surprise.",
+    "advance": true
+  },
+  {
+    "id": "02-shell",
+    "title": "Look! A shell. A little shell.",
+    "lines": [
+      "Look! A shell.",
+      "A little shell."
+    ],
+    "cue": "Tap the shell. What did Otter find?",
+    "action": "Find the little shell",
+    "alt": "Little Otter scoops a closed lavender clam from the water with one paw.",
+    "feedback": "One little shell!"
+  },
+  {
+    "id": "03-stone",
+    "title": "A little stone. On my tummy!",
+    "lines": [
+      "A little stone.",
+      "On my tummy!"
+    ],
+    "cue": "Tap the stone. Where does it go?",
+    "action": "Place the stone on Otter’s tummy",
+    "alt": "Little Otter sets an oval blue-gray stone flat on its tummy while holding the closed clam near its chest.",
+    "feedback": "On my tummy. Ready to tap!"
+  },
+  {
+    "id": "04-ready",
+    "title": "Shell up high. Ready, steady...",
+    "lines": [
+      "Shell up high.",
+      "Ready, steady..."
+    ],
+    "cue": "Tap the shell. Here we go!",
+    "action": "Get ready to tap the shell",
+    "alt": "Little Otter holds the closed lavender clam with both paws just above the stone resting on its tummy.",
+    "feedback": "Ready to tap!",
+    "advance": true
+  },
+  {
+    "id": "05-tap",
+    "title": "Tap, tap. Crack, crack!",
+    "lines": [
+      "Tap, tap.",
+      "Crack, crack!"
+    ],
+    "cue": "Tap the shell to crack it open.",
+    "action": "Crack the shell against the stone",
+    "alt": "Little Otter taps a closed clam against the stone on its tummy. A fine crack appears in the shell.",
+    "feedback": "Crack! The shell is open.",
+    "resultImage": "06-open",
+    "resultAlt": "Little Otter holds an open lavender clam with two creamy halves and one peach-colored morsel inside. The stone rests on its tummy."
+  },
+  {
+    "id": "06-open",
+    "title": "An open shell! A tasty bite inside.",
+    "lines": [
+      "An open shell!",
+      "A tasty bite inside."
+    ],
+    "cue": "Tap the open shell. What is inside?",
+    "action": "Discover the food inside the shell",
+    "alt": "Little Otter holds an open lavender clam with two creamy halves and one peach-colored morsel inside. The stone rests on its tummy.",
+    "feedback": "A tasty little bite!"
+  },
+  {
+    "id": "07-bite",
+    "title": "A little bite. Yum, yum!",
+    "lines": [
+      "A little bite.",
+      "Yum, yum!"
+    ],
+    "cue": "Tap Little Otter. Say yum, yum!",
+    "action": "Enjoy a little bite",
+    "alt": "Little Otter brings one peach-colored morsel to its mouth; the open clam in its other paw is empty.",
+    "feedback": "Yum, yum! A tasty bite."
+  },
+  {
+    "id": "08-clean",
+    "title": "Lick, lick. Clean little paws.",
+    "lines": [
+      "Lick, lick.",
+      "Clean little paws."
+    ],
+    "cue": "Tap the paws. Lick, lick!",
+    "action": "Help Little Otter clean its paws",
+    "alt": "Little Otter licks its two paws under its mouth, floating with an empty tummy and no shell or stone.",
+    "feedback": "Clean paws. All done!"
+  },
+  {
+    "id": "09-rest",
+    "title": "Full little tummy. Float, float. Time to rest.",
+    "lines": [
+      "Full little tummy.",
+      "Float, float.",
+      "Time to rest."
+    ],
+    "cue": "Tap the tummy. Take a little rest.",
+    "action": "Rest with Little Otter",
+    "alt": "Little Otter floats peacefully on its back with eyes closed and both paws resting on its empty tummy.",
+    "feedback": "Rest well, Little Otter."
+  }
+]

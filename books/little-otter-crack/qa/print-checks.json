@@ -1,0 +1,45 @@
+{
+  "pages": 9,
+  "controls": 0,
+  "openedShell": true,
+  "sheets": [
+    {
+      "overflow": false,
+      "text": "Little Otter,\nCrack, Crack!\n\nA little shell. A tasty surprise."
+    },
+    {
+      "overflow": false,
+      "text": "Look! A shell.\nA little shell.\n\nOne little shell!"
+    },
+    {
+      "overflow": false,
+      "text": "A little stone.\nOn my tummy!\n\nOn my tummy. Ready to tap!"
+    },
+    {
+      "overflow": false,
+      "text": "Shell up high.\nReady, steady...\n\nReady to tap!"
+    },
+    {
+      "overflow": false,
+      "text": "Tap, tap.\nCrack, crack!\n\nCrack! The shell is open."
+    },
+    {
+      "overflow": false,
+      "text": "An open shell!\nA tasty bite inside.\n\nA tasty little bite!"
+    },
+    {
+      "overflow": false,
+      "text": "A little bite.\nYum, yum!\n\nYum, yum! A tasty bite."
+    },
+    {
+      "overflow": false,
+      "text": "Lick, lick.\nClean little paws.\n\nClean paws. All done!"
+    },
+    {
+      "overflow": false,
+      "text": "Full little tummy.\nFloat, float.\nTime to rest.\n\nRest well, Little Otter."
+    }
+  ],
+  "readerUnchanged": true,
+  "shortcuts": 2
+}

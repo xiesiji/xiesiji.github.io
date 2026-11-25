@@ -1,0 +1,1502 @@
+[
+  {
+    "viewport": [
+      2520,
+      1080
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 815.578125,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 815.578125,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1512,
+      837
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 815.578125,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1366,
+      768
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 815.578125,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1024,
+      768
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 805.578125,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      900,
+      900
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 805.578125,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      768,
+      1024
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 906.421875,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 725.390625,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      320,
+      693
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 655.390625,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      844,
+      390
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 805.578125,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      808,
+      900
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 909.015625,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  },
+  {
+    "viewport": [
+      807,
+      900
+    ],
+    "checks": [
+      {
+        "changesImage": null,
+        "coverBottom": 908.953125,
+        "feedback": "Tap the shell. What did Otter find?",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 1,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "One little shell!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 2,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "On my tummy. Ready to tap!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 3,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Tap the shell to crack it open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 4,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": true,
+        "coverBottom": null,
+        "feedback": "Crack! The shell is open.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 5,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "A tasty little bite!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 6,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Yum, yum! A tasty bite.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 7,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Clean paws. All done!",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 8,
+        "small": [],
+        "square": true
+      },
+      {
+        "changesImage": null,
+        "coverBottom": null,
+        "feedback": "Rest well, Little Otter.",
+        "font": true,
+        "loaded": true,
+        "overflow": false,
+        "overlap": false,
+        "page": 9,
+        "small": [],
+        "square": true
+      },
+      {
+        "restart": true
+      },
+      {
+        "keyboardNext": true
+      },
+      {
+        "keyboardBack": true
+      }
+    ]
+  }
+]
